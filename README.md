@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**KANISHK-MECH/KANISHK-MECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm KANISHK, a passionate Developer with a love for coding and technology. 
 
-Here are some ideas to get you started:
+🚀 **About Me:**
+- 🔭 I’m currently working on Drone Development.
+- 🌱 I’m currently learning ROS Development
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about Drone Development.
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+
+
+### 🌐 Connect with Me:
+- [LinkedIn] https://www.linkedin.com/in/kanishkrmech/
+- [Instagram] https://www.instagram.com/gg_kanishk/
+- [Website/Blog] https://kanishk-gg.github.io/
+
+### 📈 GitHub Stats:
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/KANISHK-MECH)
+
+Let's connect and build amazing things together! 🌟
