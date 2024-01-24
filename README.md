@@ -9,9 +9,6 @@ I'm KANISHK, a passionate Developer with a love for coding and technology.
 - 💬 Ask me about Drone Development.
 - 😄 Pronouns: He/Him
 
-### 🔧 Technologies & Tools:
-
-
 ### 🌐 Connect with Me:
 - [LinkedIn] https://www.linkedin.com/in/kanishkrmech/
 - [Instagram] https://www.instagram.com/gg_kanishk/
