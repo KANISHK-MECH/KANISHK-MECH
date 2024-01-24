@@ -18,6 +18,6 @@ I'm KANISHK, a passionate Developer with a love for coding and technology.
 - [Website/Blog] https://kanishk-gg.github.io/
 
 ### 📈 GitHub Stats:
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/KANISHK-MECH)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KANISHK-MECH&show_icons=true&theme=radical)](https://github.com/KANISHK-MECH)
 
 Let's connect and build amazing things together! 🌟
